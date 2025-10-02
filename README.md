@@ -9,6 +9,9 @@ Application using OpenAI and LangChain to chat with pdfs. This project is my ong
 This project leverages the power of Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) to create a conversational interface for your PDF files. Upload your documents, and start asking questions!
 
 ---
+## 🔗 Project Showcase
+I also shared this project on LinkedIn – check out the post here:  
+👉 [View my LinkedIn post](https://www.linkedin.com/posts/sunny-bhatkar-75793828a_learning-langchain-streamlit-ugcPost-7379156200791212032-rqDa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZC-TMBsa58MpxQk5npf_8R0ZZxlpsK600)
 
 ## ✨ Features
 
