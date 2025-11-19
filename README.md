@@ -1,5 +1,5 @@
 # PdfChat_Application
-Application using OpenAI and LangChain to chat with pdfs. This project is my ongoing work.
+Application using OpenAI and LangChain to chat with pdfs.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 > An interactive web application built with Streamlit and LangChain that allows you to chat with your PDF documents.
